@@ -117,7 +117,15 @@ Sistema de iluminação integrado.
 
 
 ## 3. Funcionamento
-Motor PSC com capacitor 4–8 µF, tensão 127/220V, potência 130–160 W.
+Motor PSC com capacitor 4–8 µF. PSC significa Permanent Split Capacitor, ou Motor de Capacitor Permanente.Ele é um tipo de motor de indução monofásico que usa um capacitor conectado permanentemente ao circuito elétrico para criar o campo magnético necessário para girar.
+ 
+## Características Técnicas
+- Potência: 130 W
+- Hélices em MDF
+- Rotação: 470 rpm (127 V) / 390 rpm (220 V)
+- Frequência: 50/60 Hz
+- Classe B
+- Tensão: 127/220 V
 
 ## 4. Diagramas
 Ligação com e sem lustre e chave de reversão.
@@ -140,22 +148,6 @@ Checklist, sintomas comuns e correções.
 
 
 ---
-
-# OCR – Manual ARGE (Conteúdo do Folheto)
-
-
-
-
-## Características Técnicas
-- Potência: 130 W
-- Hélices em MDF
-- Rotação: 470 rpm (127 V) / 390 rpm (220 V)
-- Frequência: 50/60 Hz
-- Classe B
-- Tensão: 127/220 V
-
-## Garantia
-12 meses, cobrindo defeitos de fabricação. Perde garantia por mau uso.
 
 ## Instruções de Montagem
 Fixação da haste, motor, pás e suporte, conforme descrito anteriormente.
