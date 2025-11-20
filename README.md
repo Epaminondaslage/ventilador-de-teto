@@ -132,7 +132,7 @@ Ligação com e sem lustre e chave de reversão.
 
 ## 5. Instalação
 
-### Cuidados Especiais
+### 5.1 Cuidados Especiais
 1. Nunca puxe o ventilador pelos fios.
 2. Certifique-se da compatibilidade.
 3. Instale a 2,3 m do chão.
@@ -141,18 +141,14 @@ Ligação com e sem lustre e chave de reversão.
 6. Não usar solventes na limpeza.
 7. Objetos duros podem causar acidentes.
 8. Manutenção da estética e estrutura.
-9. Instalar longe de cortinas e móveis.
-
-## 6. Manutenção
-Checklist, sintomas comuns e correções.
-
+9. Instalar longe de cortinas .
 
 ---
 
-## Instruções de Montagem
+## 5.2 Instruções de Montagem
 Fixação da haste, motor, pás e suporte, conforme descrito anteriormente.
 
-## Instalação Elétrica
+## 5.3 Instalação Elétrica
 - Instalação simples
 - Instalação com interruptor paralelo
 - Instalação com chave de reversão
