@@ -8,7 +8,7 @@
 ## Guia de Aula – Ventilador de Teto 
 
 ## Objetivo da Aula
-Ensinar os princípios de funcionamento, instalação, ligação elétrica, manutenção e normas de segurança relativas ao ventilador de teto ARGE.
+Ensinar os princípios de funcionamento, instalação, ligação elétrica, manutenção e normas de segurança relativas ao ventilador de teto.
 
 ## 1. Introdução
 Os ventiladores de teto são robustos, silenciosos e eficientes, utilizando motor monofásico com capacitor permanente.
