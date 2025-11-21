@@ -174,9 +174,9 @@ Escolha a configuração que melhor lhe convier:
 
   <table>
   <tr>
-    <td><img src="instalacao1.jpg" style="width:50%;"></td>
-    <td><img src="instalacao2.jpg" style="width:50%;"></td>
-   <td><img src="instalacao3.jpg" style="width:50%;"></td>
+    <td><img src="instalacao1.jpg" style="width:100%;"></td>
+    <td><img src="instalacao2.jpg" style="width:100%;"></td>
+   <td><img src="instalacao3.jpg" style="width:100%;"></td>
   </tr>
 </table>
 
