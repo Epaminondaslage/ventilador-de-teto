@@ -143,6 +143,12 @@ Ligação com e sem lustre e chave de reversão.
 8. Manutenção da estética e estrutura.
 9. Instalar longe de cortinas .
 
+
+---
+
+## 5.2 Instruções de Montagem
+Fixação da haste, motor, pás e suporte, conforme descrito anteriormente.
+
 <table>
   <tr>
     <td><img src="fig1e2.webp" style="width:50%;"></td>
@@ -157,12 +163,20 @@ Ligação com e sem lustre e chave de reversão.
     <td><img src="fig7.webp" style="width:100%;"></td>
   </tr>
 </table>
----
-
-## 5.2 Instruções de Montagem
-Fixação da haste, motor, pás e suporte, conforme descrito anteriormente.
 
 ## 5.3 Instalação Elétrica
+
+Escolha a configuração que melhor lhe convier:
+
 - Instalação simples
 - Instalação com interruptor paralelo
 - Instalação com chave de reversão
+
+  <table>
+  <tr>
+    <td><img src="instalacao1.jpg" style="width:100%;"></td>
+    <td><img src="instalacao2.jpg" style="width:100%;"></td>
+   <td><img src="instalacao3.jpg" style="width:100%;"></td>
+  </tr>
+</table>
+
