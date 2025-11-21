@@ -15,6 +15,8 @@ Os ventiladores de teto são robustos, silenciosos e eficientes, utilizando moto
 
 ## 2. Componentes - Ventilador de Teto 
 
+<img src="ventilador.webp" style="width:80%;">
+
 ### 2.1. Motor Monofásico (PSC – Permanent Split Capacitor)
 O motor utilizado nos ventiladores de teto ARGE é do tipo Indução Monofásica com capacitor permanente (PSC).
 
@@ -127,12 +129,9 @@ Motor PSC com capacitor 4–8 µF. PSC significa Permanent Split Capacitor, ou M
 - Classe B
 - Tensão: 127/220 V
 
-## 4. Diagramas
-Ligação com e sem lustre e chave de reversão.
+## 4. Instalação
 
-## 5. Instalação
-
-### 5.1 Cuidados Especiais
+### 4.1 Cuidados Especiais
 1. Nunca puxe o ventilador pelos fios.
 2. Certifique-se da compatibilidade.
 3. Instale a 2,3 m do chão.
@@ -146,7 +145,7 @@ Ligação com e sem lustre e chave de reversão.
 
 ---
 
-## 5.2 Instruções de Montagem
+## 4.2 Instruções de Montagem
 Fixação da haste, motor, pás e suporte, conforme descrito anteriormente.
 
 <table>
@@ -164,7 +163,7 @@ Fixação da haste, motor, pás e suporte, conforme descrito anteriormente.
   </tr>
 </table>
 
-## 5.3 Instalação Elétrica
+## 4.3 Instalação Elétrica
 
 Escolha a configuração que melhor lhe convier:
 
