@@ -4,8 +4,8 @@
 ## **Departamento de Engenharia Elétrica - CEFET-MG**  
 ## **Coordenação do Curso de Eletrotécnica**  
 
-## 📘 Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
-## Guia de Aula – Ventilador de Teto ARGE
+## Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
+## Guia de Aula – Ventilador de Teto 
 
 ## Objetivo da Aula
 Ensinar os princípios de funcionamento, instalação, ligação elétrica, manutenção e normas de segurança relativas ao ventilador de teto ARGE.
