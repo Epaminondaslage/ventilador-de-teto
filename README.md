@@ -15,7 +15,7 @@ Os ventiladores de teto são robustos, silenciosos e eficientes, utilizando moto
 
 ## 2. Componentes - Ventilador de Teto 
 
-<img src="ventilador.webp" style="width:40%;">
+<img src="ventilador_teto.webp" style="width:40%;">
 
 ### 2.1. Motor Monofásico (PSC – Permanent Split Capacitor)
 O motor utilizado nos ventiladores de teto ARGE é do tipo Indução Monofásica com capacitor permanente (PSC).
