@@ -145,16 +145,16 @@ Ligação com e sem lustre e chave de reversão.
 
 <table>
   <tr>
-    <td><img src="imagem1.jpg" style="width:50%;"></td>
-    <td><img src="imagem2.jpg" style="width:50%;"></td>
+    <td><img src="fig1e2.webp" style="width:50%;"></td>
+    <td><img src="fig3.webp" style="width:50%;"></td>
   </tr>
   <tr>
-    <td><img src="imagem3.jpg" style="width:50%;"></td>
-    <td><img src="imagem4.jpg" style="width:50%;"></td>
+    <td><img src="fig4.webp" style="width:50%;"></td>
+    <td><img src="fig5.webp" style="width:50%;"></td>
   </tr>
   <tr>
-    <td><img src="imagem5.jpg" style="width:50%;"></td>
-    <td><img src="imagem6.jpg" style="width:50%;"></td>
+    <td><img src="fig6.webp" style="width:50%;"></td>
+    <td><img src="fig7.webp" style="width:100%;"></td>
   </tr>
 </table>
 ---
