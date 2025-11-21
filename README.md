@@ -143,6 +143,20 @@ Ligação com e sem lustre e chave de reversão.
 8. Manutenção da estética e estrutura.
 9. Instalar longe de cortinas .
 
+<table>
+  <tr>
+    <td><img src="imagem1.jpg" style="width:50%;"></td>
+    <td><img src="imagem2.jpg" style="width:50%;"></td>
+  </tr>
+  <tr>
+    <td><img src="imagem3.jpg" style="width:50%;"></td>
+    <td><img src="imagem4.jpg" style="width:50%;"></td>
+  </tr>
+  <tr>
+    <td><img src="imagem5.jpg" style="width:50%;"></td>
+    <td><img src="imagem6.jpg" style="width:50%;"></td>
+  </tr>
+</table>
 ---
 
 ## 5.2 Instruções de Montagem
