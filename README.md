@@ -2,12 +2,12 @@
     <img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-IoT-ELE-CEFET/master/img/Logo_CEFET-MG.png" width="20%" />
 </td>
 
-## **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
-## **Departamento de Engenharia Elétrica - CEFET-MG**  
-## **Coordenação do Curso de Eletrotécnica**  
+### **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
+### **Departamento de Engenharia Elétrica - CEFET-MG**  
+### **Coordenação do Curso de Eletrotécnica**  
 
-## Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
-## Guia de Aula – Ventilador de Teto 
+### Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
+### Guia de Aula – Ventilador de Teto 
 
 ## Objetivo da Aula
 Ensinar os princípios de funcionamento, instalação, ligação elétrica, manutenção e normas de segurança relativas ao ventilador de teto.
