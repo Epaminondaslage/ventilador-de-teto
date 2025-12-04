@@ -2,12 +2,12 @@
     <img src="https://raw.githubusercontent.com/Epaminondaslage/Lab-IoT-ELE-CEFET/master/img/Logo_CEFET-MG.png" width="20%" />
 </td>
 
-## **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
-## **Departamento de Engenharia Elétrica - CEFET-MG**  
-## **Coordenação do Curso de Eletrotécnica**  
+### **CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS**  
+### **Departamento de Engenharia Elétrica - CEFET-MG**  
+### **Coordenação do Curso de Eletrotécnica**  
 
-## Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
-## Guia de Aula – Ventilador de Teto 
+###  Disciplina: **PLIEP - Prática de Laboratório de Instalações Eletricas Prediais**
+### Guia de Aula – Ventilador de Teto 
 
 ## Objetivo da Aula
 Ensinar os princípios de funcionamento, instalação, ligação elétrica, manutenção e normas de segurança relativas ao ventilador de teto.
@@ -17,7 +17,7 @@ Os ventiladores de teto são robustos, silenciosos e eficientes, utilizando moto
 
 ## 2. Componentes - Ventilador de Teto 
 
-<img src="ventilador_teto.webp" style="width:40%;">
+<img src="img/ventilador_teto.webp" style="width:40%;">
 
 ### 2.1. Motor Monofásico (PSC – Permanent Split Capacitor)
 O motor utilizado nos ventiladores de teto ARGE é do tipo Indução Monofásica com capacitor permanente (PSC).
@@ -152,16 +152,16 @@ Fixação da haste, motor, pás e suporte, conforme descrito anteriormente.
 
 <table>
   <tr>
-    <td><img src="fig1e2.webp" style="width:50%;"></td>
-    <td><img src="fig3.webp" style="width:50%;"></td>
+    <td><img src="img/fig1e2.webp" style="width:50%;"></td>
+    <td><img src="img/fig3.webp" style="width:50%;"></td>
   </tr>
   <tr>
-    <td><img src="fig4.webp" style="width:50%;"></td>
-    <td><img src="fig5.webp" style="width:50%;"></td>
+    <td><img src="img/fig4.webp" style="width:50%;"></td>
+    <td><img src="img/fig5.webp" style="width:50%;"></td>
   </tr>
   <tr>
-    <td><img src="fig6.webp" style="width:50%;"></td>
-    <td><img src="fig7.webp" style="width:100%;"></td>
+    <td><img src="img/fig6.webp" style="width:50%;"></td>
+    <td><img src="img/fig7.webp" style="width:100%;"></td>
   </tr>
 </table>
 
@@ -175,9 +175,9 @@ Escolha a configuração que melhor lhe convier:
 
   <table>
   <tr>
-    <td><img src="instalacao1.jpg" style="width:100%;"></td>
-    <td><img src="instalacao2.jpg" style="width:100%;"></td>
-   <td><img src="instalacao3.jpg" style="width:100%;"></td>
+    <td><img src="img/instalacao1.jpg" style="width:100%;"></td>
+    <td><img src="img/instalacao2.jpg" style="width:100%;"></td>
+   <td><img src="img/instalacao3.jpg" style="width:100%;"></td>
   </tr>
 </table>
 
